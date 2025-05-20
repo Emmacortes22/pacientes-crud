@@ -13,7 +13,7 @@ Este proyecto es un CRUD básico de pacientes que conecta un frontend hecho en V
 ```plaintext
 pacientes-crud/
 │
-├── frontend/
+├── pacientes-crud/
 │   ├── src/
 │   │   ├── api/
 │   │   ├── components/
@@ -21,7 +21,7 @@ pacientes-crud/
 │   │   └── App.vue, main.js...
 │   └── package.json
 │
-├── backend/
+├── PacientesApi/
 │   ├── Controllers/
 │   ├── Models/
 │   └── Program.cs, *.csproj...
