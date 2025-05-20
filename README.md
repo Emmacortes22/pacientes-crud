@@ -10,21 +10,23 @@ Este proyecto es un CRUD básico de pacientes que conecta un frontend hecho en V
 
 ## 📂 Estructura del proyecto
 
+```plaintext
 pacientes-crud/
 │
 ├── frontend/
-│ ├── src/
-│ │ ├── api/
-│ │ ├── components/
-│ │ ├── stores/
-│ │ └── App.vue, main.js...
-│ └── package.json
+│   ├── src/
+│   │   ├── api/
+│   │   ├── components/
+│   │   ├── stores/
+│   │   └── App.vue, main.js...
+│   └── package.json
 │
 ├── backend/
-│ ├── Controllers/
-│ ├── Models/
-│ └── Program.cs, .csproj...
+│   ├── Controllers/
+│   ├── Models/
+│   └── Program.cs, *.csproj...
 └── README.md
+```
 
 ## ⚙️ Cómo ejecutar
 
